@@ -9,7 +9,7 @@
 
 # Change the value of CURRENCY to match your currency code
 dwm_currency() {
-	CURRENCY=EUR
+	CURRENCY=INR
 
 	printf "%s" "$SEP1"
 	if [ "$IDENTIFIER" = "unicode" ]; then
